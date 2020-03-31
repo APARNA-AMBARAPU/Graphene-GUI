@@ -1,5 +1,7 @@
 # Graphene-GUI
 
+Done as a part of course ME3100 - Modelling and Simulation.  
+
 ### Machine Learning Algorithm
 Trained K-nearest neighbors on the rawdata.csv to predict mechanical properties, 'Fracture Strain','Fracture Strength' and 'Young's Modulus' of Graphene.
 - Open Matlab
